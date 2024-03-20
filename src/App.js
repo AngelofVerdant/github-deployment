@@ -5,7 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>DEPLOYMENT OF A REACT APP USING GITHUB ACTIONS TO AWS</h1>
+        <h1>DEPLOYMENT OF A REACT APP USING GITHUB ACTIONS TO AWS
+          <br/>
+
+          IT WORKS NOW EFFIN DAMN IT, I HATE IT HERE
+        </h1>
         <p>
          
         </p>
